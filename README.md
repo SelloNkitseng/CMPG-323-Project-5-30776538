@@ -54,3 +54,5 @@ Power Query M Language Reference
 DAX Guide
 Power BI Tips and Tricks Blog
 Any other relevant sources used for learning or project guidance
+
+Link to the Report: https://app.powerbi.com/groups/me/reports/d9febcb8-d6ce-4453-a30e-e160b4011bdd/4a88838bc7bbcb3610e1?experience=power-bi  
