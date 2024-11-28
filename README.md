@@ -1,4 +1,4 @@
-# CMPG-323-Project-5-30776538
+# Project-5-Power-BI-Data-Analysis-Report
 This Power BI report is created for the NWU Tech Trends Benefit Realisation project to help stakeholders monitor and analyze important metrics related to client onboarding, project management, and cost savings. The report provides a summary of high-level metrics, project monitoring, and client insights, using live data connections and secure data management practices.
 
 Report Structure
